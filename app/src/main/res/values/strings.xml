@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaliwoJava</string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="DistanceET">Distance (km)</string>
+    <string name="fuelCostET">Fuel Cost</string>
+    <string name="fuelEfficiencyInput">Fuel Efficiency (L/100km)</string>
+    <string name="numberOfPassengerInput">Number of Passengers</string>
+</resources>
